@@ -567,7 +567,7 @@ Inside your <mark>src</mark> folder create another folder called <mark>component
 
 `mkdir components`
 
-![Make components directory](../)
+![Make components directory](../images/mkdir-components.png)
 
 Move into the components directory with
 
